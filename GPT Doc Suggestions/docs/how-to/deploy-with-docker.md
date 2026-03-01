@@ -1,0 +1,1 @@
+# Deploy with Docker\n- Linux server: non-root, add CAP_NET_RAW only to probe.\n- Docker Desktop: reduced capability mode, TCP-only.

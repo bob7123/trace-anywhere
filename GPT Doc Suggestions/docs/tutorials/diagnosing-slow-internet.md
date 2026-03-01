@@ -1,0 +1,1 @@
+# Diagnosing Slow Internet\nRun traces baseline vs problem, compare diffs, check latency steps, end-to-end loss, method changes.

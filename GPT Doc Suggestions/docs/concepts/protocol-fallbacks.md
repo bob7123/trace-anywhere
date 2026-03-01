@@ -1,0 +1,1 @@
+# Protocol Fallbacks\n\nICMP→TCP:443→UDP Paris. Lockout to prevent flapping. Badges show which method used.

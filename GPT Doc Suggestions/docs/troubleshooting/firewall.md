@@ -1,0 +1,1 @@
+# Firewall Blocking Traces\nSwitch to TCP:443 mode. Verify allow-lists.

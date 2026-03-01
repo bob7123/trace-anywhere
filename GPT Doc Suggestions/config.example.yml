@@ -1,0 +1,16 @@
+probes:
+  fallback_policy:
+    icmp_window: 10
+    icmp_success_threshold: 0.3
+    lockout_after_switch_s: 900
+    tcp_ports: [443, 80]
+    udp_paris: true
+  rate_limits:
+    max_traces_per_minute: 30
+    max_packets_per_second: 200
+    burst_allowance: 10
+  target_allowlist:
+    - "*.example.com"
+    - "10.0.0.0/8"
+    - "172.16.0.0/12"
+    - "192.168.0.0/16"

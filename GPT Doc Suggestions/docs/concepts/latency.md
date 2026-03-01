@@ -1,0 +1,1 @@
+# Latency\n\nLatency = round-trip time of packets. Influenced by distance, queuing, security devices. TraceAnywhere shows per-hop latency + confidence bands.

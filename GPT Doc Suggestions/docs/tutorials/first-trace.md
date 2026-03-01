@@ -1,0 +1,1 @@
+# First Trace\n1. Run docker compose.\n2. Open UI.\n3. Enter target.\n4. Watch timeline + badges.

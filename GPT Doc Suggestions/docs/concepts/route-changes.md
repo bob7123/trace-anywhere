@@ -1,0 +1,1 @@
+# Route Changes\n\nPaths change due to BGP, traffic engineering. TraceAnywhere highlights route diffs, uses UDP Paris to stabilize ECMP.

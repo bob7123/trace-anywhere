@@ -1,0 +1,1 @@
+# Packet Loss\n\nLoss = missing packets. TraceAnywhere distinguishes ICMP deprioritization from true end-to-end loss.
